@@ -1,15 +1,15 @@
 html {
-  font-size: $font-size;
-  font-family: $font-family;
-  background: $background-color;
-  color: $font-color;
-  line-height: 1.4;
+ 
 }
 
 body {
+  font-size: $font-size;
+  font-family: $font-family;
+  background: #af9d9a;
+  color: $font-color;
+  line-height: 1.4;
   margin: auto;
   text-align: center;
-  max-width: $page-width;
 }
 
 h1 {
